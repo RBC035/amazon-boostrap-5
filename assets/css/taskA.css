@@ -1,0 +1,31 @@
+.bg-black-A{
+    background-color: rgb(36, 31, 31);
+}
+
+.bg-gray-A{
+    background-color: rgb(53, 51, 51);
+}
+
+.bg-gray-B{
+    background-color: rgb(212, 212, 212); 
+}
+
+.bg-primary-A{
+    background-color: rgb(19, 4, 34);
+}
+
+.c-pointer{
+    cursor: pointer;
+}
+
+.ps-20{
+    padding-left: 34rem;
+}
+.mt-13{
+    margin-top: 13rem;
+   
+}
+
+.h-260{
+    height: 260px;
+}
